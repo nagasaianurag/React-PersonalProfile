@@ -166,12 +166,7 @@
     font-weight:600
   }
 }
-/*.con{
-	align-items: center;
-	margin-left: 110px;
-	width: 100%;
-	height: auto;
-}*/
+
 .responsive {
   width: 100%;
   height: auto;
@@ -190,3 +185,12 @@ height:100%;
 width:100%;
 position:absolute;
 }
+/*.con{
+	align-items: center;
+	margin-left: 110px;
+	width: 100%;
+	height: auto;
+}*/
+
+
+
